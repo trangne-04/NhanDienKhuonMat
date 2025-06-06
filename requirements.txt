@@ -1,0 +1,10 @@
+tensorflow #Xây dựng và huấn luyện mô hình deep learning.
+numpy #Xử lý dữ liệu dưới dạng mảng số học.
+matplotlib #Vẽ biểu đồ.
+seaborn #Vẽ heatmap cho confusion matrix.
+scikit-learn #Tính accuracy, classification report, confusion matrix.
+keras #Xây dựng và load mô hình deep learning.
+opencv-python #Xử lý ảnh và nhận diện khuôn mặt từ webcam.
+gtts #Chuyển văn bản thành giọng nói.
+pygame #Phát âm thanh từ file MP3.
+pillow #Hiển thị ảnh trong giao diện Tkinter.
